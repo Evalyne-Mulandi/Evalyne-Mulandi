@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evalyne Mulandi
 - 👀 I’m interested in ...web development and software development
-- 🌱 I’m currently learning ...web development with Vue.js and tailwindcss
+- 🌱 I’m currently learning ...python-Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...eva.nthenya.mulandi@gmail.com
 
