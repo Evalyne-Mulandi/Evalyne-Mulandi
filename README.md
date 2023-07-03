@@ -1,24 +1,15 @@
-- 👋 Hi, I’m @Evalyne Mulandi
-- 👀 I’m interested in ...web development and software development
-- 🌱 I’m currently learning ...python-Django
-- 👉Cyber security enthusiast......
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...eva.nthenya.mulandi@gmail.com
-  
+   
 
 <!---
  Evalyne Mulandi/ Evalyne Mulandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
- <h1 align="center">Hi 👋, I'm Evalyne Mulandi</h1>
-<h3 align="center">A passionate fullstack developer from Kenya</h3>
+ <h1   align="center">Hi 👋, I'm Evalyne Mulandi</h1>
+<h3 align="center">A passionate fullstack developer and a cybersecurity enthusiast from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evalyne-mulandi&label=Profile%20views&color=0e75b6&style=flat" alt="evalyne-mulandi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Evalyne-Mulandi](https://github.com/Evalyne-Mulandi)
-
-- 💬 Ask me about **vuejs,nuxtjs,cybersecurity**
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
 
