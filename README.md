@@ -5,6 +5,13 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+    
+
+<!---
+ Evalyne Mulandi/ Evalyne Mulandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
  <h1   align="center">Hi 👋, I'm Evalyne Mulandi</h1>
 <h3 align="center">A passionate fullstack developer and a cybersecurity enthusiast from Kenya</h3>
 
@@ -27,5 +34,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evalyne-mulandi&show_icons=true&locale=en" alt="evalyne-mulandi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&" alt="evalyne-mulandi" /></p>
+
 
 
