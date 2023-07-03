@@ -1,18 +1,4 @@
-   
-
-<!---
- Evalyne Mulandi/ Evalyne Mulandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-    
-
-<!---
- Evalyne Mulandi/ Evalyne Mulandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-  <h1 align="center">Hi 👋, I'm Evalyne Mulandi</h1>
+ <h1 align="center">Hi 👋, I'm Evalyne Mulandi</h1>
 <h3 align="center">A passionate fullstack developer and cybersecurity ethuasisit from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evalyne-mulandi&label=Profile%20views&color=0e75b6&style=flat" alt="evalyne-mulandi" /> </p>
