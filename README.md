@@ -1,6 +1,6 @@
  ![Header](./your-header-image-name.png)
 <h3 align="center"> web developer | Cybersecurity ethuasisist | Graphic Design </h3>
-<h4 align="center"> 
+<h4> 
  - 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **python,django**
