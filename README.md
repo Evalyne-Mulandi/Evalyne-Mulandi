@@ -6,15 +6,15 @@
 
 <br>
 <h5> 
- - 🔭 I’m currently working on **python project**
+ 🔭 I’m currently working on **python project**
 
-- 🌱 I’m currently learning **python,django**
+🌱 I’m currently learning **python,django**
 
-- 👯 I’m looking to collaborate on **open source project**
+👯 I’m looking to collaborate on **open source project**
 
-- 📫 How to reach me **eva.nthenya.mulandi@gmail.com**
+📫 How to reach me **eva.nthenya.mulandi@gmail.com**
 
-- ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
+⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
    </h5>
  
 <h1 align="center">Technology Stack 💻  </h1>
