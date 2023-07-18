@@ -46,7 +46,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evalyne-mulandi&show_icons=true&locale=en&layout=compact" alt="evalyne-mulandi" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evalyne-mulandi&theme=algolia&hide=CSS,HTML,PHP&langs_count=3">|
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&" alt="evalyne-mulandi" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evalyne-mulandi&show_icons=true&locale=en&layout=compact" alt="evalyne-mulandi" />|
 
 <br>
  
