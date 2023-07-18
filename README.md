@@ -4,8 +4,8 @@
  
 <h3 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h3>
 
+<br>
 
-<h4> 
  - 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **python,django**
@@ -15,7 +15,7 @@
 - 📫 How to reach me **evalyne mualndi@gmail.com**
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
-   </h4>
+   
  
 <h1 align="center">Technology Stack 💻  </h1>
 
