@@ -5,7 +5,7 @@
 <h6 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h6>
 
 <br>
-<h5> 
+<h4> 
  - 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **python,django**
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
 
-   </h5>
+   </h4>
  
 <h1 align="center">Technology Stack 💻  </h1>
 
