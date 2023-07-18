@@ -4,8 +4,9 @@
  
 <h6 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h6>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evalyne-mulandi&label=Profile%20views&color=0e75b6&style=flat" alt="evalyne-mulandi" /> </p>
 <br>
-<h4> 
+<h5> 
  - 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **python,django**
@@ -16,7 +17,7 @@
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
 
-   </h4>
+   </h5>
  
 <h1 align="center">Technology Stack 💻  </h1>
 
