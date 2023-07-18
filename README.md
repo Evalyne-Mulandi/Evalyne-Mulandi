@@ -5,7 +5,7 @@
 <h6 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h6>
 
 <br>
-
+<h5> 
  - 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **python,django**
@@ -15,7 +15,7 @@
 - 📫 How to reach me **eva.nthenya.mulandi@gmail.com**
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
-   
+   </h5>
  
 <h1 align="center">Technology Stack 💻  </h1>
 
@@ -55,8 +55,7 @@
 
 <h3 align="center"> Connect With Me: </h4>
 <p align="center">
-<a  href="https://www.linkedin.com/in/akhil-jethwa-817101256/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
-<a  href="https://www.kaggle.com/akhiljethwa"  target="_blank"><img  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="python"/></a>
+<a  href= "www.linkedin.com/in/evalyne-mulandi-3934b622b"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
 <a  href="mailto: eva.nthenya.mulandi@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="python"/></a>
 <a  href="https://www.instagram.com/7_akhil_7/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="python"/></a>
 
