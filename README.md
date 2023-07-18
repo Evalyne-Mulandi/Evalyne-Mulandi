@@ -2,7 +2,7 @@
 
 
  
-<h3 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h3>
+<h6 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h6>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 📫 How to reach me **evalyne mualndi@gmail.com**
+- 📫 How to reach me **eva.nthenya.mulandi@gmail.com**
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
    
