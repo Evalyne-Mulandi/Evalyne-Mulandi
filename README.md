@@ -1,6 +1,6 @@
  ![Header](./your-header-image-name.png)
-<h3 align="center"> | web developer | Cybersecurity ethuasisist | Graphic Design </h3>
-
+<h3 align="center"> web developer | Cybersecurity ethuasisist | Graphic Design </h3>
+<h4 align="center"> 
  - 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **python,django**
@@ -10,7 +10,8 @@
 - 📫 How to reach me **evalyne mualndi@gmail.com**
 
 - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
-  <br>
+  <br> </h4>
+ 
 <h1 align="center">Technology Stack 💻  </h1>
 
  <p align="center">
