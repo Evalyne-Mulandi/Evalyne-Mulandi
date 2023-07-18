@@ -1,12 +1,16 @@
- <h1 align="center">Hi 👋, I'm Evalyne Mulandi</h1>
-<h3 align="center">A passionate fullstack developer and cybersecurity ethuasisit from Kenya</h3>
-
 🔭 I’m currently working on python-django-project
 👯 I’m looking to collaborate on open source project
 🤝 I’m looking for help with learning new things
 🌱 I’m currently learning python for django
 💬 Ask me about nuxt3, vue,supabase
-⚡ - ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
+⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
+ 
+ 
+ 
+ <h1 align="center">Hi 👋, I'm Evalyne Mulandi</h1>
+<h3 align="center">A passionate fullstack developer and cybersecurity ethuasisit from Kenya</h3>
+
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evalyne-mulandi&label=Profile%20views&color=0e75b6&style=flat" alt="evalyne-mulandi" /> </p>
 
