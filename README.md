@@ -1,8 +1,16 @@
  ![Header](./your-header-image-name.png)
 <h3 align="center"> | web developer | Cybersecurity ethuasisist | Graphic Design </h3>
 
-<h4 align="center">I am a 3rd Year Student at Pandit Deendayal Energy University pursuing B.Tech in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
+ - 🔭 I’m currently working on **python project**
+
+- 🌱 I’m currently learning **python,django**
+
+- 👯 I’m looking to collaborate on **open source project**
+
+- 📫 How to reach me **evalyne mualndi@gmail.com**
+
+- ⚡ Fun fact **Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**
+  <br>
 <h1 align="center">Technology Stack 💻  </h1>
 
  <p align="center">
