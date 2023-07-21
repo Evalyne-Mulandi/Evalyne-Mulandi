@@ -6,7 +6,7 @@
 <h6 align="center"> Web developer | Cybersecurity ethuasisist | Graphic Design </h6>
  
  
- 
+[![](https://visitcount.itsvg.in/api?id=evalyne-mulandi&icon=0&color=0)](https://visitcount.itsvg.in) 
  
  
  # 💫 About Me:
@@ -25,9 +25,9 @@
   
 <h1 align="center"> Statistical Data 📊 </h1>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evalyne-mulandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
+
  
  
 ### ✍️ Random Dev Quote
@@ -37,7 +37,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=evalyne-mulandi&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 
 <br>
 <br><br>
