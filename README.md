@@ -25,10 +25,8 @@
   
 <h1 align="center"> Statistical Data 📊 </h1>
 
-|*Github Stats_|_|_*Top Languages*_|
-|-----------|-------------|
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&" alt="evalyne-mulandi" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evalyne-mulandi&show_icons=true&locale=en&layout=compact" alt="evalyne-mulandi" />|
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evalyne-mulandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
  
  
