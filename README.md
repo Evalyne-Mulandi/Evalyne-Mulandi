@@ -28,17 +28,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evalyne-mulandi&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evalyne-mulandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
+
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme 
-![](yoooooooow)
+ 
 
 --- 
  
-<img width="120%"  height="200%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+<img width="150%"  height="300%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
