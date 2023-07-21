@@ -22,7 +22,7 @@
 <h1 align="center">Technology Stack 💻  </h1>
 
  <p align="center">
- <a target="_blank"><img  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"  alt="vuejs"/></a> 
+ <a target="_blank"><img  src=" https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"  alt="vuejs"/></a> 
 <a target="_blank"><img  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"  alt="javascript"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  alt="nuxtjs"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  alt="pandas"/></a>
