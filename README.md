@@ -22,9 +22,9 @@
 <h1 align="center">Technology Stack 💻  </h1>
 
  <p align="center">
- <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>  
+ <a target="_blank"><img  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"  alt="vuejs"/></a> 
 <a target="_blank"><img  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"  alt="javascript"/></a>
-<a target="_blank"><img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  alt="laravel"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  alt="nuxtjs"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  alt="pandas"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  alt="laravel"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"  alt="pandas"/></a>
