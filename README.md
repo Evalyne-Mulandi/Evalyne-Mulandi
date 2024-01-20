@@ -10,7 +10,7 @@
  
  
  ## 💫 About Me:
-  - 🔭 I’m currently working on **python project**<br><br>- 🌱 I’m currently learning **python,django**<br><br>- 👯 I’m looking to collaborate on **open source project**<br><br>- 📫 How to reach me **eva.nthenya.mulandi@gmail.com**<br><br>- ⚡ Fun fact *Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**<br>
+  - 🔭 I’m currently working on **a project**<br><br>- 🌱 I’m currently learning **python,django**<br><br>- 👯 I’m looking to collaborate on **open source project**<br><br>- 📫 How to reach me **eva.nthenya.mulandi@gmail.com**<br><br>- ⚡ Fun fact *Despite complaining about how a certain project is stressing me out ,i will still code and that makes me happy😂😂**<br>
 
 
 ## 🌐 Connect with me:
